@@ -68,7 +68,7 @@ A unified mobile app providing centralized booking across RCATS, Local Link, and
 ### Solution 2 — Employer Coordination with ADTS
 An employer-transit partnership framework — beginning with the Gildan corridor — that introduces monthly service contracts with ADTS, an on-demand evening vehicle tied to Connector arrivals, and a coordination dashboard visualizing SKAT schedules against Connector windows. Closes the 205-minute evening gap without new infrastructure.
 
-### Optimization Derived — MILP-Optimized Weekend Transfer Hub
+### Optimization Derived — Weekend Transfer Hub
 A Mixed-Integer Linear Program (PuLP/CBC solver) selecting the optimal weekend transfer hub from all 67 SKAT stop candidates, scoring each on:
 
 ```
