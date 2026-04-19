@@ -68,7 +68,7 @@ A unified mobile app providing centralized booking across RCATS, Local Link, and
 ### Solution 2 — Employer Coordination with ADTS
 An employer-transit partnership framework — beginning with the Gildan corridor — that introduces monthly service contracts with ADTS, an on-demand evening vehicle tied to Connector arrivals, and a coordination dashboard visualizing SKAT schedules against Connector windows. Closes the 205-minute evening gap without new infrastructure.
 
-### Optimization Derived — Weekend Transfer Hub
+### Optimization Derived — MILP-Optimized Weekend Transfer Hub
 A Mixed-Integer Linear Program (PuLP/CBC solver) selecting the optimal weekend transfer hub from all 67 SKAT stop candidates, scoring each on:
 
 ```
@@ -170,7 +170,7 @@ This project was made possible through the support of:
 | File | Description |
 |---|---|
 | `index.html` | Interactive Transit Access Coverage Dashboard (self-contained, no build step) |
-| `Data_Competition_2026_Presentation.pdf` | Full competition presentation (27 slides + appendices) — [View PDF](https://github.com/komalgulati1/rockingham-transit-gap-analysis/blob/main/Data_Competition_2026_Presentation.pdf) |
+| `Data Competition 2026 Presentation.pdf` | Full competition presentation (27 slides + appendices) — [View PDF](https://github.com/komalgulati1/rockingham-transit-gap-analysis/blob/main/Data%20Competition%202026%20Presentation.pdf) |
 
 ---
 
@@ -178,7 +178,7 @@ This project was made possible through the support of:
 
 If referencing this work, please cite:
 
-> Gulati, K., Quansah, D., Jones, A., & Abdelmalak, M. (2026). *Connected Rural Mobility: Local-Intercity Coordination in Rockingham County, North Carolina.* CR2C2 Southeast Data Competition 2026, NC A&T State University.
+> Gulati, K., Quansah, D., Jones, A., & Abdelmalak, M. (2026). *Connected Rural Mobility: Local-Intercity Coordination in Rockingham County, North Carolina.* CR2C2 Southeast Data Competition 2026, NC A&T State University. Advisor: Dr. Venktesh Pandey.
 
 ---
 
